@@ -1,4 +1,4 @@
-# GenAi_app
+# GenAI_app
 
 A Flutter project application of The generative AI for Skin Match app.
 
