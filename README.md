@@ -1,16 +1,6 @@
-# skincare_app
+# GenAi_app
 
-A new Flutter project.
+A Flutter project application of The generative AI for Skin Match app.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo Video
+https://github.com/wangimelati/GenAI-app/assets/110271485/04739f1a-6136-4412-a56f-a4feb86b4406
